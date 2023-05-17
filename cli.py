@@ -54,3 +54,6 @@ def main() -> None:
 
         if choice == "1":
             add_task_cli()
+
+
+# Kodas tvarkingas
